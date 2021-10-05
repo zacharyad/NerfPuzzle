@@ -21,7 +21,7 @@
 
 ## The Software:
 
-- Code written by myself using arduino IDE, C/C++.
+- Code written by myself using arduino IDE, C++.
 - Libraries:
 - none.
 
